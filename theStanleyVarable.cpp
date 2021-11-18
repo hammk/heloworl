@@ -20,7 +20,6 @@ int main()
 
     int peopleWhoKnowWhatHappenedInTiennamenSquare {};
     
-
     return 0;
 
 }
